@@ -1,6 +1,3 @@
-
-Vietnam Projects
-
 About BKAPSEC-OS
 
 BKAPSEC is an Ubuntu/Debian-based penetration testing distribution for penetration testers and security researchers. The repository contains 140 tools. You can install tools individually or in groups. BKAPSEC-OS is compatible with existing Ubuntu/Debian installs. For more information, see the installation instructions.
@@ -24,8 +21,8 @@ Download and Installation
 
 
                                                                      
-                                                                     HTC Building,236B & 238 Hoang Quoc Viet, Tu Liem , Ha Noi , Viet Nam
+                HTC Building,236B & 238 Hoang Quoc Viet, Tu Liem , Ha Noi , Viet Nam
                                                                                     
-                                                                                  Tel : 04.3755.4010/ 04.3755.4011
+                            Tel : 04.3755.4010/ 04.3755.4011
                                                                                  
                                                                                   
