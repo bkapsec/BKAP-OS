@@ -18,11 +18,9 @@ Mail: bkapsec@gmail.com
 
 Download and Installation !
 
-I am  <a href="https://archive.org/download/bkapsec/bkapsec-2017.04.26x64.7z"> Here </a>
-
+I am  <a href="https://archive.org/download/bkapsec/bkapsec-2017.04.26x64.7z"> Here </a> ![alt text](http://imgur.com/a/cUdR2)
 #
-
-Torrent <a href="https://archive.org/download/bkapsec/bkapsec_archive.torrent"> Here </a>
+Torrent <a href="https://archive.org/download/bkapsec/bkapsec_archive.torrent"> Here </a> ![alt text](http://imgur.com/a/cUdR2)
 
 
 
