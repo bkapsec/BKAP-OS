@@ -18,7 +18,7 @@ Mail: bkapsec@gmail.com
 
 Download and Installation !
 
-I am  <a href="https://archive.org/download/bkapsec/bkapsec-2017.04.26x64.7z"> Here </a> ![alt text](https://github.com/bkapsec/Bkap-site/blob/master/icon.png)
+I am  <a href="https://www.fshare.vn/file/MSUK3FLG55Y8"> Here </a> ![alt text](https://github.com/bkapsec/Bkap-site/blob/master/icon.png)
 #
 Torrent <a href="https://archive.org/download/bkapsec/bkapsec_archive.torrent"> Here </a> ![alt text](https://github.com/bkapsec/Bkap-site/blob/master/icon.png)
 
